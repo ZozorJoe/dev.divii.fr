@@ -1,0 +1,60 @@
+@font-face { font-family: Eina01-Regular; src: url('fonts/Eina01-Regular.ttf'); }
+@font-face { font-family: "Eina03-Regular"; src: url('fonts/Eina03/Eina03-Regular.ttf'); }
+@font-face { font-family: "Eina03-SemiBold"; src: url('fonts/Eina03/Eina03-SemiBold.ttf'); }
+@font-face {
+    font-family: "Noe Display Regular";
+    src: url("https://chasing-paper.cdn.prismic.io/chasing-paper/d4eac6e3-83d6-4b0e-88c9-325be9e5910e_Noe+Display+Regular.eot") format("embedded-opentype"), url("https://chasing-paper.cdn.prismic.io/chasing-paper/b0e1d3bc-4d24-45c5-b8fe-14df700cd596_Noe+Display+Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Noe Display Regular Italic";
+    src: url("https://chasing-paper.cdn.prismic.io/chasing-paper/d627faf2-171a-4685-b36d-c73dda31f5f6_Noe+Display+Regular+Italic.eot") format("embedded-opentype"), url("https://chasing-paper.cdn.prismic.io/chasing-paper/8fa42c6d-8e59-4635-ab6a-12039fc9f994_Noe+Display+Regular+Italic.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    font-display: swap;
+}
+
+@font-face { font-family: Albra-Light; src: url('fonts/Albra-Light.otf'); }
+@font-face { font-family: Albra-Medium; src: url('fonts/Albra-Medium.otf'); }
+@font-face { font-family: Albra-Regular; src: url('fonts/Albra-Regular.otf'); }
+@font-face { font-family: Albra-Text-Light; src: url('fonts/Albra-Text-Light.otf'); }
+@font-face { font-family: Albra-Text-Medium; src: url('fonts/Albra-Text-Medium.otf'); }
+@font-face { font-family: Albra-Text-Regular; src: url('fonts/Albra-Text-Regular.otf'); }
+@font-face { font-family: MeekDisplay-Medium; src: url('fonts/MeekDisplay-Medium.otf'); }
+@font-face { font-family: Moche-Light; src: url('fonts/Moche-Light.ttf'); }
+@font-face { font-family: MyriadPro-Regular; src: url('fonts/MyriadPro-Regular.otf'); }
+@font-face { font-family: Eina01-Bold; src: url('fonts/Eina01-Bold.ttf'); }
+@font-face {
+    font-family: "Noe Display Medium";
+    src: url("https://chasing-paper.cdn.prismic.io/chasing-paper/447c4095-8cc9-4d15-acfe-0b4bfd025ef1_Noe+Display+Medium.eot") format("embedded-opentype"), url("https://chasing-paper.cdn.prismic.io/chasing-paper/0338a936-40c3-4de5-9f3c-7513a333805d_Noe+Display+Medium.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Noe Display Medium Italic";
+    src: url("https://chasing-paper.cdn.prismic.io/chasing-paper/d2dece56-45f6-414e-997f-e4c182252e31_Noe+Display+Medium+Italic.eot") format("embedded-opentype"), url("https://chasing-paper.cdn.prismic.io/chasing-paper/889f5880-e61e-4659-bca8-a28f3f84c9db_Noe+Display+Medium+Italic.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    font-display: swap;
+}
+
+@font-face { font-family: "Canela Thin"; src: url('fonts/Canela/Canela-Thin.otf'); }
+@font-face { font-family: "Canela Thin Italic"; src: url('fonts/Canela/Canela-ThinItalic.otf'); }
+@font-face { font-family: "Canela Light"; src: url('fonts/Canela/Canela-Light.otf'); }
+@font-face { font-family: "Canela Light Italic"; src: url('fonts/Canela/Canela-LightItalic.otf'); }
+@font-face { font-family: "Canela Regular"; src: url('fonts/Canela/Canela-Regular.otf'); }
+@font-face { font-family: "Canela Regular Italic"; src: url('fonts/Canela/Canela-RegularItalic.otf'); }
+@font-face { font-family: "Canela Medium"; src: url('fonts/Canela/Canela-Medium.otf'); }
+@font-face { font-family: "Canela Medium Italic"; src: url('fonts/Canela/Canela-MediumItalic.otf'); }
+@font-face { font-family: "Canela Bold"; src: url('fonts/Canela/Canela-Bold.otf'); }
+@font-face { font-family: "Canela Bold Italic"; src: url('fonts/Canela/Canela-BoldItalic.otf'); }
+@font-face { font-family: "Canela Black"; src: url('fonts/Canela/Canela-Black.otf'); }
+@font-face { font-family: "Canela Black Italic"; src: url('fonts/Canela/Canela-BlackItalic.otf'); }

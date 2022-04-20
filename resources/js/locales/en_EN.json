@@ -1,0 +1,390 @@
+{
+    "count": {
+        "credits": "Credit | Credit | Credits",
+        "credits2": "No credit | One credit | {count} credits",
+        "experts": "No expert | One expert | {count} experts"
+    },
+    "messages": {
+        "administrators": {
+            "create": "Create administrator",
+            "delete": "Delete administrator",
+            "edit": "Edit administrator",
+            "view": "View administrator"
+        },
+        "already": {
+            "have": {
+                "an": {
+                    "account": "Already have an account?"
+                },
+                "reset": {
+                    "your": {
+                        "password": "Already have reset your password?"
+                    }
+                }
+            }
+        },
+        "avatar": {
+            "change": "Change avatar",
+            "remove": "Remove avatar"
+        },
+        "confirm": {
+            "cancel": "Are you sure you want to cancel this item?",
+            "mass_attach": "Are you sure you want to attach these selected items?",
+            "mass_detach": "Are you sure you want to detach these selected items?",
+            "mass_delete": "Are you sure you want to delete these selected items?",
+            "delete": "Are you sure you want to delete this item?"
+        },
+        "customers": {
+            "create": "Create customer",
+            "delete": "Delete customer",
+            "edit": "Edit customer",
+            "view": "View customer"
+        },
+        "create": {
+            "an": {
+                "account": "Create an account"
+            }
+        },
+        "disciplines": {
+            "create": "Create discipline",
+            "delete": "Delete discipline",
+            "edit": "Edit discipline",
+            "view": "View discipline"
+        },
+        "empty": {
+            "cart": {
+                "title": "Cart is empty",
+                "description": "Please, add item to your cart before."
+            }
+        },
+        "enter": {
+            "arc": "Enter the assurance RC",
+            "background_color": "Enter the background color",
+            "credit": "Enter the credit's count",
+            "coupon": "Enter coupon",
+            "currency": "Enter currency",
+            "description": "Enter description",
+            "duration": "Enter duration",
+            "email": "Enter email address",
+            "first_name": "Enter first name",
+            "full_name": "Enter full name",
+            "label": "Enter label",
+            "last_name": "Enter last name",
+            "name": "Enter name",
+            "password": "Enter password",
+            "password_confirmation": "Confirm the password",
+            "phone": "Enter phone",
+            "price": "Enter price",
+            "rib": "Enter RIB",
+            "title": "Enter title",
+            "value": "Enter value",
+            "vat": "Enter VAT"
+        },
+        "coupons": {
+            "create": "Create coupon",
+            "delete": "Delete coupon",
+            "edit": "Edit coupon",
+            "view": "View coupon"
+        },
+        "durations": {
+            "create": "Create duration",
+            "delete": "Delete duration",
+            "edit": "Edit duration",
+            "view": "View duration"
+        },
+        "error": "Une erreur s'est produite.",
+        "experts": {
+            "create": "Create expert",
+            "delete": "Delete expert",
+            "edit": "Edit expert",
+            "view": "View expert"
+        },
+        "forgot": {
+            "password": "Forgot password?",
+            "password_subtitle": "Enter your email to reset your password."
+        },
+        "formations": {
+            "create": "Create formation",
+            "delete": "Delete formation",
+            "edit": "Edit formation",
+            "view": "View formation"
+        },
+        "horoscopes": {
+            "create": "Create horoscope",
+            "delete": "Delete horoscope",
+            "edit": "Edit horoscope",
+            "view": "View horoscope"
+        },
+        "invoices": {
+            "create": "Create invoice",
+            "delete": "Delete invoice",
+            "edit": "Edit invoice",
+            "view": "View invoice"
+        },
+        "item": {
+            "created": "{item} created successfully!",
+            "updated": "{item} updated successfully!",
+            "deleted": "{item} deleted successfully!"
+        },
+        "my": {
+            "account": "My account",
+            "profile": "My profile"
+        },
+        "new": {
+            "here": "New here?",
+            "password": "New password"
+        },
+        "newsletters": {
+            "create": "Create newsletter",
+            "delete": "Delete newsletter",
+            "edit": "Edit newsletter",
+            "view": "View newsletter"
+        },
+        "order": {
+            "placed": {
+                "title": "Order placed successfully",
+                "description": "Your order has been placed successfully."
+            }
+        },
+        "orders": {
+            "create": "Create order",
+            "delete": "Delete order",
+            "edit": "Edit order",
+            "view": "View order"
+        },
+        "please": {
+            "wait": "Please wait..."
+        },
+        "products": {
+            "create": "Create product",
+            "delete": "Delete product",
+            "edit": "Edit product",
+            "view": "View product"
+        },
+        "profile": {
+            "edit": "Edit profile",
+            "view": "View profile"
+        },
+        "select": {
+            "date": "Select date",
+            "delay": "Select delay",
+            "expert": "Select an expert",
+            "hour": "Select hour",
+            "timezone": "Select timezone"
+        },
+        "sign": {
+            "in": "Sign in",
+            "out": "Sign out",
+            "up": "Sign up"
+        },
+        "specialities": {
+            "create": "Create Speciality",
+            "delete": "Delete Speciality",
+            "edit": "Edit Speciality",
+            "view": "View Speciality"
+        },
+        "status": {
+            "canceled": "Canceled",
+            "complete": "Complete",
+            "refused": "Refused",
+            "ping": "Ping",
+            "processing": "Processing",
+            "validated": "Validated"
+        },
+        "vouchers": {
+            "create": "Create voucher",
+            "delete": "Delete voucher",
+            "edit": "Edit voucher",
+            "view": "View voucher"
+        }
+    },
+    "passwords": {
+        "sent": "Passwords sent",
+        "throttled": "Passwords throttled"
+    },
+    "accept_payment": "Accept Payment",
+    "action": "Action",
+    "actions": "Actions",
+    "active": "Active",
+    "add": "Add",
+	"administrator": "Administrator",
+	"administrators": "Administrators",
+    "allowed_image_types": "Allowed file types: png, jpg, jpeg.",
+    "arc": "Assurance RC",
+    "attach": "Attach",
+    "availability": "Availability",
+    "availabilities": "availabilities",
+    "avatar": "Avatar",
+    "back": "Back",
+    "background_color": "Background Color",
+    "bank-card": "Bank card",
+    "bank-transfer": "Bank transfer",
+    "birthday": "Birthday",
+    "birth_hour": "Birth hour",
+    "birth_place": "Birth place",
+    "cancel": "Cancel",
+    "cancel_payment": "Cancel Payment",
+    "cancel_order": "Cancel Order",
+    "cash": "Cash",
+	"catalog": "Catalog",
+    "chat": "Chat",
+    "checkout": "Checkout",
+	"class": "Class",
+	"classes": "Classes",
+	"close": "Close",
+    "complete": "Complete",
+    "complete_order": "Complete order",
+    "confirm": "Confirm",
+    "consultation": "Consultation",
+    "consultations": "Consultations",
+    "contact": "Contact",
+    "content": "Content",
+    "coupon": "Coupon",
+    "coupons": "Coupons",
+	"course": "Course",
+	"courses": "Courses",
+	"create": "Create",
+	"credit": "Credit",
+	"credits": "Credits",
+	"current_password": "Current password",
+	"currency": "Currency",
+	"customer": "Customer",
+	"customers": "Customers",
+    "dashboard": "Dashboard",
+    "date": "Date",
+    "delay": "Delay",
+    "delays": "Delays",
+    "delete": "Delete",
+    "detach": "Detach",
+    "description": "Description",
+    "discipline": "Discipline",
+    "disciplines": "Disciplines",
+    "draft": "Draft",
+    "duration": "Duration",
+    "durations": "Durations",
+	"edit": "Edit",
+	"email": "Email",
+	"end_at": "End at",
+	"evaluation": "Evaluation",
+	"evaluations": "Evaluations",
+	"expert": "Expert",
+	"experts": "Experts",
+	"export": "Export",
+    "facturation": "Facturation",
+    "facturations": "Facturations",
+    "first_name": "First Name",
+	"forgot_password": "Forgot password?",
+	"formation": "Formation",
+	"formations": "Formations",
+	"free": "Free",
+    "full_name": "Full Name",
+    "home": "Home",
+    "horoscope": "Horoscope",
+    "horoscopes": "Horoscopes",
+    "hours": "Hours",
+    "hour": "Hour",
+    "i_agree": "I agree",
+    "id": "ID",
+    "image": "Image",
+    "invoices": "invoices",
+    "invoices_ping": "Invoices Ping",
+    "invoices_validated": "Invoices Validated",
+    "invoice": "invoice",
+    "label": "Label",
+    "last_name": "Last Name",
+    "list": "Liste",
+	"load": "Load",
+	"login": "Login",
+    "logout": "Logout",
+    "marketing": "Marketing",
+    "my_infos": "My infos",
+    "my_time_slots": "My time slots",
+    "my_disciplines": "My disciplines",
+	"name": "Name",
+	"new": "New",
+	"newsletter": "Newsletter",
+	"newsletters": "Newsletters",
+    "new_password": "New password",
+    "no": "No",
+    "none": "None",
+    "ok": "Ok",
+    "old_password": "Old password",
+    "order": "Order",
+    "orders": "Orders",
+    "others": "Others",
+    "password": "Password",
+    "password_confirmation": "Confirm password",
+    "payment": "Payment",
+    "payments": "Payments",
+    "payment_method": "Payment method",
+    "payment_methods": "Payment methods",
+    "pay": "Pay",
+    "paypal": "PayPal",
+    "picto": "Picto",
+    "ping": "Ping",
+    "phone": "Phone",
+    "price": "Price",
+    "product": "Product",
+    "products": "Products",
+    "profile": "Profile",
+    "publish": "Publish",
+    "published": "Published",
+    "quantity": "Quantity",
+    "rating": "Rating",
+    "ratings": "Ratings",
+    "reduction": "Reduction",
+    "reference": "Reference",
+    "refresh": "Refresh",
+    "refuse_payment": "Refuse Payment",
+    "register": "Register",
+    "remove": "Remove",
+    "reset": "Reset",
+    "rib": "RIB",
+    "row_total": "Row total",
+    "sale": "Sale",
+    "sales": "Sales",
+    "save": "Save",
+    "search": "Search",
+    "send": "Send",
+    "setting": "Setting",
+    "settings": "Settings",
+    "shop": "Shop",
+    "shopping_cart": "Shopping Cart",
+	"speciality": "Speciality",
+	"specialities": "Specialities",
+    "start_at": "Start at",
+    "status": "Status",
+	"subtotal": "Subtotal",
+	"sub_total": "Subtotal",
+	"submit": "Submit",
+	"terms_of_use": "terms of use",
+	"tester": "BETA Tester",
+	"time-slot": "Time Slot",
+	"timezone": "Timezone",
+	"total": "Total",
+	"undefined": "Undefined",
+	"update": "Update",
+	"user": "User",
+	"users": "Users",
+	"validated": "Validated",
+	"validate_invoice": "Validate Invoice",
+	"validate_order": "Validate Order",
+	"view": "View",
+	"vat": "VAT",
+	"voucher": "Voucher",
+	"vouchers": "Vouchers",
+    "yes": "Yes",
+
+    "belier": "Bélier",
+    "taureau": "Taureau",
+    "gemeaux": "Gemeaux",
+    "cancer": "Cancer",
+    "lion": "Lion",
+    "vierge": "Vierge",
+    "balance": "Balance",
+    "scorpion": "Scorpion",
+    "sagittaire": "Sagittaire",
+    "capricorne": "Capricorne",
+    "verseau": "Verseau",
+    "poissons": "Poissons"
+}

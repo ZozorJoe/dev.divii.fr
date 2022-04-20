@@ -1,0 +1,398 @@
+{
+    "count": {
+        "credits": "Crédit | Crédit | Crédits",
+        "credits2": "Aucun crédit | Un crédit | {count} crédits",
+        "experts": "Aucun expert | Un expert | {count} experts"
+    },
+    "messages": {
+        "administrators": {
+            "create": "Nouvel administrateur",
+            "delete": "Supprimer administrateur",
+            "edit": "Modifier administrateur",
+            "view": "Détails administrateur"
+        },
+        "already": {
+            "have": {
+                "an": {
+                    "account": "Vous avez déjà un compte?"
+                },
+                "reset": {
+                    "your": {
+                        "password": "Vous avez déjà réinitialisé votre mot de passe?"
+                    }
+                }
+            }
+        },
+        "avatar": {
+            "change": "Changer avatar",
+            "remove": "Effacer avatar"
+        },
+        "confirm": {
+            "cancel": "Voulez-vous vraiment annuler cet élément?",
+            "mass_attach": "Voulez-vous vraiment attacher ces éléments sélectionnés?",
+            "mass_detach": "Voulez-vous vraiment détacher ces éléments sélectionnés?",
+            "mass_delete": "Voulez-vous vraiment supprimer ces éléments sélectionnés?",
+            "delete": "Voulez-vous vraiment supprimer cet élément?"
+        },
+        "coupons": {
+            "create": "Nouveau coupon",
+            "delete": "Supprimer coupon",
+            "edit": "Modifier coupon",
+            "view": "Détails coupon"
+        },
+        "customers": {
+            "create": "Nouveau client",
+            "delete": "Supprimer client",
+            "edit": "Modifier client",
+            "view": "Détails client"
+        },
+        "create": {
+            "an": {
+                "account": "Créer un compte"
+            }
+        },
+        "disciplines": {
+            "create": "Nouvelle discipline",
+            "delete": "Supprimer discipline",
+            "edit": "Modifier discipline",
+            "view": "Détails discipline"
+        },
+        "empty": {
+            "cart": {
+                "title": "Votre panier est vide",
+                "description": "S'il vous plaît, ajoutez l'article à votre panier avant."
+            }
+        },
+        "enter": {
+            "arc": "Entrer l'assurance RC",
+            "background_color": "Entrer la couleur de fond",
+            "birthday": "Entrer votre date de naissance",
+            "birth_hour": "Entrer votre heure de naissance",
+            "birth_place": "Entrer votre lieu de naissance",
+            "credit": "Entrer le nombre de crédit",
+            "coupon": "Entrer le coupon",
+            "currency": "Entrer la devise",
+            "description": "Entrer la description",
+            "duration": "Entrer la durée",
+            "email": "Entrer l'adresse email",
+            "first_name": "Entrer le prénom",
+            "full_name": "Entrer le nom complet",
+            "label": "Entrer le libellé",
+            "last_name": "Entrer le nom",
+            "name": "Entrer le nom",
+            "password": "Entrer le mot de passe",
+            "password_confirmation": "Confirmer le mot de passe",
+            "phone": "Entrer le téléphone",
+            "price": "Entrer le prix",
+            "rib": "Entrer le RIB",
+            "title": "Entrer le titre",
+            "value": "Entrer une valeur",
+            "vat": "Entrer le TVA"
+        },
+        "durations": {
+            "create": "Nouvelle durée",
+            "delete": "Supprimer durée",
+            "edit": "Modifier durée",
+            "view": "Détails durée"
+        },
+        "error": "Une erreur s'est produite.",
+        "experts": {
+            "create": "Nouveau expert",
+            "delete": "Supprimer expert",
+            "edit": "Modifier expert",
+            "view": "Détails expert"
+        },
+        "forgot": {
+            "password": "Mot de passe oublié?",
+            "password_subtitle": "Entrez votre e-mail pour réinitialiser votre mot de passe."
+        },
+        "formations": {
+            "create": "Nouvelle formation",
+            "delete": "Supprimer formation",
+            "edit": "Modifier formation",
+            "view": "Détails formation"
+        },
+        "horoscopes": {
+            "create": "Nouvelle horoscope",
+            "delete": "Supprimer horoscope",
+            "edit": "Modifier horoscope",
+            "view": "Détails horoscope"
+        },
+        "invoices": {
+            "create": "Nouvelle facture",
+            "delete": "Supprimer facture",
+            "edit": "Modifier facture",
+            "view": "Détails facture"
+        },
+        "item": {
+            "created": "{item} créé avec succès!",
+            "updated": "{item} mis à jour avec succès!",
+            "deleted": "{item} suprimé avec succès!"
+        },
+        "my": {
+            "account": "Mon compte",
+            "profile": "Mon profil"
+        },
+        "new": {
+            "here": "Nouveau ici?",
+            "password": "Nouveau mot de passe"
+        },
+        "newsletters": {
+            "create": "Nouveau newsletter",
+            "delete": "Supprimer newsletter",
+            "edit": "Modifier newsletter",
+            "view": "Détails newsletter"
+        },
+        "order": {
+            "placed": {
+                "title": "Commande passée avec succès",
+                "description": "Votre commande a été passée avec succès."
+            }
+        },
+        "orders": {
+            "create": "Nouvelle commande",
+            "delete": "Supprimer commande",
+            "edit": "Modifier commande",
+            "view": "Détails commande"
+        },
+        "please": {
+            "wait": "Veuillez patienter svp..."
+        },
+        "products": {
+            "create": "Nouveau produit",
+            "delete": "Supprimer produit",
+            "edit": "Modifier produit",
+            "view": "Détails produit"
+        },
+        "profile": {
+            "edit": "Modifier profil",
+            "view": "Détails profil"
+        },
+        "select": {
+            "date": "Sélectionner une date",
+            "delay": "Sélectionner un délai",
+            "expert": "Sélectionner un expert",
+            "hour": "Sélectionner l'heure",
+            "timezone": "Sélectionner le fuseau horaire"
+        },
+        "sign": {
+            "in": "Se connecter",
+            "out": "Se déconnecter",
+            "up": "S'inscrire"
+        },
+        "specialities": {
+            "create": "Nouvelle spécialité",
+            "delete": "Supprimer spécialité",
+            "edit": "Modifier spécialité",
+            "view": "Détails spécialité"
+        },
+        "status": {
+            "canceled": "Annulé",
+            "complete": "Terminé",
+            "refused": "Réfusé",
+            "ping": "En cours",
+            "processing": "En cours de traitement",
+            "validated": "Validé"
+        },
+        "vouchers": {
+            "create": "Nouvelle code cadeau",
+            "delete": "Supprimer code cadeau",
+            "edit": "Modifier code cadeau",
+            "view": "Détails code cadeau"
+        }
+    },
+    "passwords": {
+        "sent": "Mots de passe envoyés",
+        "throttled": "Passwords throttled"
+    },
+    "accept_payment": "Accepter le paiement",
+    "action": "Action",
+    "actions": "Actions",
+    "active": "Actif",
+    "add": "Ajouter",
+    "administrator": "Administrateur",
+    "administrators": "Administrateurs",
+    "allowed_image_types": "Allowed file types: png, jpg, jpeg.",
+    "arc": "Assurance RC",
+    "attach": "Attacher",
+    "availability": "Disponibilité",
+    "availabilities": "Disponibilités",
+    "avatar": "Avatar",
+    "back": "Retours",
+    "background_color": "Couleur de fond",
+    "bank-card": "Carte bancaire",
+    "bank-transfer": "Virement bancaire",
+    "birthday": "Date de naissance",
+    "birth_hour": "Heure de naissance",
+    "birth_place": "Lieu de naissance",
+    "cancel": "Annuler",
+    "cancel_payment": "Annuler le paiement",
+    "cancel_order": "Annuler la commande",
+    "cash": "Espèce/Chèque",
+    "catalog": "Catalogue",
+    "chat": "Chat",
+    "checkout": "Commander",
+    "class": "Cours",
+    "classes": "Cours",
+    "close": "Fermer",
+    "complete": "Terminer",
+    "complete_order": "Terminer la commande",
+    "confirm": "Confirmer",
+    "consultation": "Consultation",
+    "consultations": "Consultations",
+    "contact": "Contact",
+    "content": "Contenu",
+    "coupon": "Coupon",
+    "coupons": "Coupons",
+    "course": "Cours",
+    "courses": "Cours",
+    "create": "Créer",
+    "credit": "Crédit",
+    "credits": "Crédits",
+    "currency": "Devise",
+    "current_password": "Mot de passe courant",
+    "customer": "Client",
+    "customers": "Clients",
+    "dashboard": "Tableau de bord",
+    "date": "Date",
+    "delay": "Délai",
+    "delays": "Délais",
+    "delete": "Supprimer",
+    "detach": "Détacher",
+    "description": "Description",
+    "discipline": "Discipline",
+    "disciplines": "Disciplines",
+    "draft": "Brouillon",
+    "duration": "Durée",
+    "durations": "Durées",
+    "edit": "Modifier",
+    "email": "Email",
+    "end_at": "Date de fin",
+    "evaluation": "Evaluation",
+    "evaluations": "Evaluations",
+    "expert": "Expert",
+    "experts": "Experts",
+    "export": "Exporter",
+    "facturation": "Facturation",
+    "facturations": "Facturations",
+    "first_name": "Prénom",
+    "forgot_password": "Mot de passe oublié?",
+    "formation": "Formation",
+    "formations": "Formations",
+    "free": "Gratuit",
+    "full_name": "Nom complet",
+    "home": "Accueil",
+    "horoscope": "Horoscope",
+    "horoscopes": "Horoscopes",
+    "hours": "Heures",
+    "hour": "Heure",
+    "i_agree": "J'accepte",
+    "id": "ID",
+    "image": "Image",
+    "inscription": "Inscription",
+    "inscriptions": "Inscriptions",
+    "invoice": "Facture",
+    "invoices": "Factures",
+    "invoices_ping": "Factures en attente de validation",
+    "invoices_validated": "Factures validées",
+    "label": "Libellé",
+    "last_name": "Nom",
+    "list": "Liste",
+    "load": "Charger",
+    "login": "Se connecter",
+    "logout": "Se déconnecter",
+    "marketing": "Marketing",
+    "my_infos": "Mes infos",
+    "my_time_slots": "Mes disponibilités",
+    "my_disciplines": "Mes disciplines",
+    "name": "Nom",
+    "new": "Nouveau",
+    "newsletter": "Newsletter",
+    "newsletters": "Newsletters",
+    "new_password": "Nouveau mot de passe",
+    "no": "Non",
+    "none": "Aucun",
+    "ok": "Ok",
+    "old_password": "Ancien mot de passe",
+    "order": "Commande",
+    "orders": "Commandes",
+    "others": "Autres",
+    "password": "Mot de passe",
+    "password_confirmation": "Confirmer mot de passe",
+    "payment": "Paiement",
+    "payments": "Paiements",
+    "payment_method": "Moyen de paiement",
+    "payment_methods": "Moyen de paiements",
+    "pay": "Payer",
+    "paypal": "PayPal",
+    "picto": "Picto",
+    "ping": "En cours",
+    "phone": "Téléphone",
+    "price": "Prix",
+    "product": "Produit",
+    "products": "Produits",
+    "profile": "Profil",
+    "publish": "Publier",
+    "published": "Publié",
+    "quantity": "Quantité",
+    "rating": "Note",
+    "ratings": "Notes",
+    "reduction": "Reduction",
+    "reference": "Référence",
+    "refresh": "Rafraîchir",
+    "refuse_payment": "Réfuser le paiement",
+    "register": "S'inscrire",
+    "remove": "Effacer",
+    "reset": "Réinitialiser",
+    "rib": "RIB",
+    "row_total": "Total de la ligne",
+    "sale": "Vente",
+    "sales": "Ventes",
+    "save": "Sauvegarder",
+    "search": "Recherche",
+    "send": "Envoyer",
+    "setting": "Paramètre",
+    "settings": "Paramètres",
+    "shop": "Shop",
+    "shopping_cart": "Panier",
+    "speciality": "Spécialité",
+    "specialities": "Spécialités",
+    "start_at": "Date de début",
+    "status": "Statut",
+    "subtotal": "Sous total",
+    "sub_total": "Sous total",
+    "submit": "Envoyer",
+    "terms_of_use": "les conditions d'utilisation",
+    "tester": "BETA Testeur",
+    "time-slot": "Time Slot",
+    "time_slot": "Time Slot",
+    "time_slots": "Time Slots",
+    "timezone": "Fuseau horaire",
+    "total": "Total",
+    "undefined": "Non défini",
+    "update": "Mettre à jour",
+    "user": "Utilisateur",
+    "users": "Utilisateurs",
+    "validate": "Valider",
+    "validated": "Validé",
+    "validate_invoice": "Valider la facture",
+    "validate_order": "Valider la commande",
+    "vat": "TVA",
+    "view": "Voir",
+    "voucher": "Code cadeau",
+    "vouchers": "Codes cadeaux",
+    "yes": "Oui",
+
+    "belier": "Bélier",
+    "taureau": "Taureau",
+    "gemeaux": "Gemeaux",
+    "cancer": "Cancer",
+    "lion": "Lion",
+    "vierge": "Vierge",
+    "balance": "Balance",
+    "scorpion": "Scorpion",
+    "sagittaire": "Sagittaire",
+    "capricorne": "Capricorne",
+    "verseau": "Verseau",
+    "poissons": "Poissons"
+}
