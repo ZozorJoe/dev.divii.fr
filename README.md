@@ -10,12 +10,12 @@ La première plateforme proposant de réunir et de rendre plus accessibles les a
 
 ### Clone git project
 ```
-git clone https://github.com/joelinjatovo/divii.fr.git
+git clone https://github.com/ZozorJoe/dev.divii.fr.git
 ```
 
 ### Composer
 ```
-cd divii.fr
+cd dev.divii.fr
 composer install
 ```
 
